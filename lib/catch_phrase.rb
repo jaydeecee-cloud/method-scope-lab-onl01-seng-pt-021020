@@ -1,3 +1,3 @@
-def method(catch_phrase)
+def phrase(catch_phrase)
   puts phrase
 end
